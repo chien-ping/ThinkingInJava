@@ -1,0 +1,4 @@
+jE2E7 後支援 json
+json的jar放在 SDK7(glassfish4)裡
+
+http://stackoverflow.com/questions/25868714/package-javax-json-not-available-on-java-ee-7-project
